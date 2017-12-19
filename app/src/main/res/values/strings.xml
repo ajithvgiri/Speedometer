@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="speedo_meter">Speedo Meter</string>
+    <string name="location_permission">Need Location Permission</string>
+    <string name="permission_description">This app needs location permission.</string>
+    <string name="permission_grant">Grant</string>
+    <string name="permission_cancel">Cancel</string>
+    <string name="goto_settings">Go to Permissions to Grant Location</string>
+    <string name="unable_toget_permission">Unable to get Permission</string>
+</resources>
