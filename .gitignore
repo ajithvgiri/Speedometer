@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/android,androidstudio
 
 ### Android ###
+=======
+>>>>>>> f42fcaee1db04b8bf8abf77d6f9ba71396242cad
 # Built application files
 *.apk
 *.ap_
@@ -44,13 +47,26 @@ captures/
 .idea/dictionaries
 .idea/libraries
 
+<<<<<<< HEAD
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
+=======
+# Keystore files
+*.jks
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+>>>>>>> f42fcaee1db04b8bf8abf77d6f9ba71396242cad
 # Freeline
 freeline.py
 freeline/
 freeline_project_description.json
+<<<<<<< HEAD
 
 ### Android Patch ###
 gen-external-apklibs
@@ -161,3 +177,5 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.gitignore.io/api/android,androidstudio
+=======
+>>>>>>> f42fcaee1db04b8bf8abf77d6f9ba71396242cad
